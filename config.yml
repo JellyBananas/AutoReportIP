@@ -1,0 +1,8 @@
+stmp.server:
+  address: smtp.qq.com
+  port: 25
+  account: 
+  password:
+email:
+  from:
+  to:
